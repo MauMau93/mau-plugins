@@ -1,0 +1,7 @@
+{
+  "name": "auto-analysis",
+  "version": "0.1.0",
+  "description": "Hypothesis-driven marketing analytics framework: EDA, modeling hypotheses, model building and stakeholder reporting via four specialised agents, set up in any project folder.",
+  "author": { "name": "Mauricio Marcos" },
+  "keywords": ["eda", "mmm", "ltv", "hypotheses", "marketing-analytics"]
+}

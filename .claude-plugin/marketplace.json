@@ -1,0 +1,11 @@
+{
+  "name": "mau-plugins",
+  "owner": { "name": "Mauricio Marcos", "url": "https://github.com/MauMau93" },
+  "plugins": [
+    {
+      "name": "auto-analysis",
+      "source": "./auto-analysis",
+      "description": "Hypothesis-driven marketing analytics framework (EDA → hypotheses → models → stakeholder docs) with four specialised agents."
+    }
+  ]
+}
